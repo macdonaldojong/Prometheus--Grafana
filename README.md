@@ -34,3 +34,7 @@ Use DigitalOcean droplet
 * grafana run by default on port {3000} ; user: {admin} & password: {admin} 
 ![image](https://user-images.githubusercontent.com/58276505/171042980-2961cb04-ce8a-4b66-8829-1c5bb91ccc15.png)
 ![image](https://user-images.githubusercontent.com/58276505/171043221-beb6bb51-3390-4c35-9755-53b13de7c7d9.png)
+
+![image](https://user-images.githubusercontent.com/58276505/171043580-99f2d36f-b1c9-42a9-b482-bf1ad1ca28fa.png)
+![image](https://user-images.githubusercontent.com/58276505/171043386-725cf233-e741-4216-82f1-cf57c96b8cea.png)
+
